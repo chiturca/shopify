@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Haven",
+    "description": "This is the description of product 1.",
+    "category": "Category A",
+    "price": 10.0,
+    "image": "https://cdn.dribbble.com/users/790924/screenshots/8518999/media/7736dad3bbed0563ceb094a0c9bd2d79.jpg?compress=1&resize=400x300&vertical=top"
+  },
+  {
+    "id": 2,
+    "name": "Oakmoss",
+    "description": "This is the description of product 2.",
+    "category": "Category B",
+    "price": 20.0,
+    "image": "https://i.pinimg.com/originals/e9/86/5b/e9865bd4108683fb691ecc859ebd5bd6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fresh Coffee",
+    "description": "This is the description of product 3.",
+    "category": "Category C",
+    "price": 30.0,
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_730/gen-workflow%2Fproduct-database%2Fsweet-water-decor-fresh-coffee-candle"
+  },
+  {
+    "id": 4,
+    "name": "Pragma",
+    "description": "This is the description of product 4.",
+    "category": "Category A",
+    "price": 40.0,
+    "image": "https://i0.wp.com/armatagecandlecompany.com/wp-content/uploads/2020/09/flatlay-shot-product-photography.png?resize=750%2C750&ssl=1"
+  },
+  {
+    "id": 5,
+    "name": "French Vanilla",
+    "description": "This is the description of product 5.",
+    "category": "Category B",
+    "price": 50.0,
+    "image": "https://cdn.shopify.com/s/files/1/0759/0457/products/DSC00889.jpgedited.jpg?v=1663397910"
+  },
+  {
+    "id": 6,
+    "name": "Clarity",
+    "description": "This is the description of product 6.",
+    "category": "Category C",
+    "price": 45.0,
+    "image": "https://studiocotton.co.uk/wp-content/uploads/2021/05/clarity-candles-before-after-blog-post-studio-cotton-bristol.jpeg"
+  }
+]
