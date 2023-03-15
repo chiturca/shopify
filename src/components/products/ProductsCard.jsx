@@ -82,6 +82,8 @@ export default function ProductsCard() {
                   handleSelectProduct(isChecked, product)
                 }
                 selectedProduct={selectedProducts.includes(product)}
+                discountedPrice={product.discountedPrice}
+                discountPercentage={product.discountPercentage}
               />
             );
           })}
