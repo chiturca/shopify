@@ -196,8 +196,6 @@ Testing: Rigorously tested the application to ensure it functions correctly and 
 
 Integration with Shopify Admin Panel: Integrated the application as an embedded app within a Shopify mock admin panel. However, deployment to Shopify encountered issues, leading to the availability of only the frontend code on GitHub.
 
-For a detailed account of the project's implementation, please refer to the GitHub repository: chiturca/storechiturca.
-
 This project served as a valuable learning experience, especially in the quick adoption of the Shopify Polaris library. Shopify Polaris continues to evolve and provide an increasingly user-friendly design kit for developers. While the deployment to Shopify for public access encountered challenges, this endeavor reflects a commitment to further growth and development in the field of frontend development.
 
 Thank you for considering this project and its potential for frontend development. If you have any questions or need further information, please do not hesitate to contact me.
