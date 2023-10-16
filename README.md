@@ -3,6 +3,8 @@ This project was created in response to a recruitment test given to me by a comp
 - Starting time of the task: 7th of March 2023
 - Finishing time of the task: 10th of March 2023
 
+![Mock png](https://i.ibb.co/61ymkmP/shopify-mock.png)
+
 # Introduction
 This project showcases my work as a frontend developer and my ability to create robust web applications using Shopify's Polaris Design Kit and React. The main goal of this project was to develop a Shopify app for product management. It involved creating a user interface that allows users to authenticate, view a list of products, filter and search products, and apply discounts. I utilized a mock data set to simulate real-world usage, and the application features a user-friendly interface built with Polaris components. The app was also integrated as an embedded app in a Shopify mock admin panel.
 
